@@ -10,3 +10,9 @@
  ****************************************************************/
 #include "PCA9685.h"
 
+using namespace CodeAbove::Libraries;
+
+PCA9685::PCA9685()
+{
+
+}
